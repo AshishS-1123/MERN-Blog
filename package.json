@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "A Content Management System for a blog developed using MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "blog",
+    "mern",
+    "CMS"
+  ],
+  "author": "Ashish Shevale",
+  "license": "MIT"
+}
